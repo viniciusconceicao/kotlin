@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="srt_txt_nome_usuario">Informe seu nome:</string>
+    <string name="str_exemplo_nome_usuario">Ex: Vinicius</string>
+
+    <string name="str_valor_carteira">Informe o valor que possui na carteira:</string>
+    <string name="str_exemplo_valor_carteira">Ex: 35.25</string>
+
+    <string name="btn_txt_confirmar">Confirmar</string>
+
+    <string name="txt_valor_atual_carteira">Valor atual em carteira:</string>
+
+
+    <string name="str_valor_atual">%1$.2f</string>
+
+
+    <string name="txt_kg_banana">Banana</string>
+    <string name="txt_kg_mamao">Mamão</string>
+    <string name="txt_kg_goiaba">Goiaba</string>
+
+
+    <string name="exemplo_txt_kg_banana">4,00 kg</string>
+    <string name="exemplo_txt_kg_mamao">4,00 kg</string>
+    <string name="exemplo_txt_kg_goiaba">4,00 kg</string>
+
+
+    <string name="str_btn_calcular_valor">Calcular valor</string>
+
+
+    <string name="str_txt_valor_calculado">%1$.2f</string>
+
+    <string name="str_btn_pagamento">Realizar pagamento</string>
+
+    <string name="str_confirmacao_positiva_pagamento">Pagamento realizado com sucesso!!</string>
+
+    <string name="str_confirmacao_negativa_pagamento">Sua carteira não possui o valor ncessário para realizar o pagamento</string>
+
+
+</resources>
